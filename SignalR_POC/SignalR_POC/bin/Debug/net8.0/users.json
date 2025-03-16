@@ -1,0 +1,48 @@
+{
+  "rm2-key": {
+    "UserKey": "rm2-key",
+    "Username": "RM2",
+    "Role": "RM",
+    "AssignedClients": [
+    ],
+    "ConnectionIds": [
+      "-lU6XGONjM60S-uc4DIxIA"
+    ]
+  },
+  "client1-key": {
+    "UserKey": "client1-key",
+    "Username": "Client1",
+    "Role": "Client",
+    "AssignedClients": [
+    ],
+    "ConnectionIds": [
+      "RW4BvR6-27EiXoSfqjKoAg",
+      "8bxNJqakEttMZdzEzxxElQ",
+      "4QbMTVN_BN3GH83cguKeBw",
+      "GDzxv98u3ajziImCtLFalA"
+    ]
+  },
+  "rm1-key": {
+    "UserKey": "rm1-key",
+    "Username": "RM1",
+    "Role": "RM",
+    "AssignedClients": [
+    ],
+    "ConnectionIds": [
+      "e1eAK-qwauiDytfrRL7ayg",
+      "CucKMmyzV8wc4_MSG2aM6w",
+      "5Iu-JaZ10LwqjyZgzuw6yQ"
+    ]
+  },
+  "client2-key": {
+    "UserKey": "client2-key",
+    "Username": "Client2",
+    "Role": "Client",
+    "AssignedClients": [
+    ],
+    "ConnectionIds": [
+      "hJntj_x8zc-XQbYLMXnp8A",
+      "39h3-Pkpjl5hW4li2y2QLA"
+    ]
+  }
+}
